@@ -1,0 +1,37 @@
+/*universal selector*/
+*{
+font-size: large;
+}
+/*background proberty*/
+body{
+    background-color: white;
+}
+/* fieldset proberty*/
+fieldset{
+    display:block;
+    border: 2px solid black;
+    border: width 2px;
+    background-color: palevioletred;
+    line-height: 1.8;
+    width: 500px;
+}
+/* legend proberties*/
+legend{
+    background-color: blueviolet;
+    color: antiquewhite;
+    padding: 5px 10px;
+}
+/*id selector*/
+#ad{
+padding-left:5px;
+}
+#in1{
+width:6cm;
+}
+#in2{
+    width:6cm;
+}
+/*class selector*/
+.em{
+    width:10cm;
+}
